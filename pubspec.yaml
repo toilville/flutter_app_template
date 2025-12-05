@@ -6,6 +6,7 @@ environment:
   sdk: ^3.9.2
 
 workspace:
+  - packages
   - packages/convenient_widgets
   - packages/core/authenticator
   - packages/core/configurator
